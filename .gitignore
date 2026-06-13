@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Claude 项目上下文文档，不对外同步
+CLAUDE.md
+
+# Claude Code 本地配置（含个人权限/PID 等，不应共享）
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+.claude-lamp-env/
+
+# 运行时文件
+*.log
