@@ -4,7 +4,7 @@
 
 ![状态示意](https://img.shields.io/badge/platform-macOS-lightgrey) ![语言](https://img.shields.io/badge/python-3.10%2B-blue) ![协议](https://img.shields.io/badge/BLE-Nordic%20UART-green)
 
-![灯环效果](img/IMG_6008.JPG)
+![实拍效果](img/imgg.jpeg)
 
 ---
 
