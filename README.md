@@ -4,6 +4,8 @@
 
 ![状态示意](https://img.shields.io/badge/platform-macOS-lightgrey) ![语言](https://img.shields.io/badge/python-3.10%2B-blue) ![协议](https://img.shields.io/badge/BLE-Nordic%20UART-green)
 
+![灯环效果](img/IMG_6008.JPG)
+
 ---
 
 ## 状态对照
@@ -23,6 +25,12 @@
 - WS2812 灯环，24 颗灯珠
 - WS2812 数据线接 **GPIO 3**
 - USB 供电（充电头或充电宝，可脱离电脑独立供电）
+
+| 正面（组件标注） | 背面（Type-C 接口） |
+|---|---|
+| ![正面标注图](img/IMG_6006.JPG) | ![背面 Type-C](img/IMG_6009.JPG) |
+
+![产品参数](img/IMG_6007.JPG)
 
 ---
 
